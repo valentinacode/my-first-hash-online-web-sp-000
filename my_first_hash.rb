@@ -1,5 +1,5 @@
 def my_hash
-   hash = {"key" => "value", "another_key" => "another value"}
+cities = {"paris" => "romance", "florence" => "art", "washington" => "politics"}
 
   
 end
