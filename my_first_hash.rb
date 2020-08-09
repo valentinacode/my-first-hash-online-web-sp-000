@@ -1,7 +1,5 @@
 def my_hash
 cities = {"paris" => "romance", "florence" => "art", "washington" => "politics"}
-
-  
 end
 
 
